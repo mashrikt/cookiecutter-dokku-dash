@@ -1,0 +1,1 @@
+web: gunicorn {{cookiecutter.app_name}}.app:server
